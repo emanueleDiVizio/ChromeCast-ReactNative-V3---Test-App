@@ -3,4 +3,4 @@ Test React Native app with ChromeCast SDK V3 functionality.
 
 # Running
 
-run `npm install && react-native run-android'
+run ```npm install && react-native run-android'```
